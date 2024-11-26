@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MainDashboard
+comment1.params=
+comment1.target=MainDashboard()
+comment10.params=title\ queue
+comment10.target=void\ openQueueWindow(java.lang.String,\ java.util.Queue)
+comment11.params=e
+comment11.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ createTopPanel()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ addNewCustomer()
+comment5.params=
+comment5.target=void\ refreshCustomerTable()
+comment6.params=
+comment6.target=void\ uploadCustomerData()
+comment7.params=
+comment7.target=void\ openCompletedTransWin()
+comment8.params=
+comment8.target=void\ createCentrePanel()
+comment9.params=model
+comment9.target=void\ viewCustomersBeforeQueue(javax.swing.table.DefaultTableModel)
+numComments=13

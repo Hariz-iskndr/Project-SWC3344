@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CustomerInfo
+comment1.params=customerId\ customerName\ vehiclePlateNumber
+comment1.target=CustomerInfo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ getDates()
+comment11.params=serviceIds
+comment11.target=void\ setServices(java.lang.String[])
+comment2.params=service
+comment2.target=void\ addService(ServiceInfo)
+comment3.params=
+comment3.target=java.lang.String\ getCustomerId()
+comment4.params=
+comment4.target=java.lang.String\ getCustomerName()
+comment5.params=
+comment5.target=java.lang.String\ getVehiclePlateNumber()
+comment6.params=
+comment6.target=java.util.List\ getServices()
+comment7.params=
+comment7.target=double\ calculateTotalCost()
+comment8.params=
+comment8.target=double\ getTotalSales()
+comment9.params=
+comment9.target=java.lang.String\ getServiceDetails()
+numComments=12

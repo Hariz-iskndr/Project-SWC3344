@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QueueManager
+comment1.params=
+comment1.target=QueueManager()
+comment2.params=customer
+comment2.target=boolean\ enqueue(CustomerInfo)
+comment3.params=
+comment3.target=java.util.Queue\ getQueue1()
+comment4.params=
+comment4.target=java.util.Queue\ getQueue2()
+comment5.params=
+comment5.target=java.util.Queue\ getQueue3()
+numComments=6
